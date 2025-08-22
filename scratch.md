@@ -1,8 +1,5 @@
 ```
-![Image](https://static.wikia.nocookie.net/enfuturama/images/c/c5/225px-Fry_meme.png)  
+![Image](https://www.youtube.com/watch?v=dQw4w9WgXcQ) 
 
-hey @copilot can you summarize this thread then tag me in the response?
-
-/shrug
-
+https://github.com/iyampaul/scratch/blob/main/scrunch.md#L1-L5
 ```
